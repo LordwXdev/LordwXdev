@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LordwXdev&theme=tokyonight&hide_border=true" />
+  <img [![GitHub Streak](https://ghstats.onuralpsezer.com?user=LordwXdev&theme=dark&hide_border=true)](https://git.io/streak-stats) />
 </p>
 
 <p align="center">
