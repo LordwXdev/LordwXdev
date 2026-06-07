@@ -23,13 +23,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LordwXdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LordwXdev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img [![GitHub Streak](https://ghstats.onuralpsezer.com?user=LordwXdev&theme=dark&hide_border=true)](https://git.io/streak-stats) />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordwXdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LordwXdev&theme=tokyonight" />
 </p>
