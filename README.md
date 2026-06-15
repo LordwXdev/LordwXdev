@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LordwXdev&theme=tokyonight&hide_border=true" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LordwXdev&theme=tokyonight&exclude_days=Sat" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
