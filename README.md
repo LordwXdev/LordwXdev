@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Lordwish 👋</h1>
+<h1 align="center">Hey, I'm Lordwish Sylvaince 👋</h1>
 
 <p align="center">
   Computer Science & Information Engineering student at Tamkang University 🇹🇼
