@@ -4,7 +4,7 @@
   Computer Science & Information Engineering student at Tamkang University 🇹🇼
 </p>
 <p align ="center">
-Email: lordwishsylvaince1236@gmail.com>
+Email: lordwishsylvaince1236@gmail.com
 </p>
 
 ---
