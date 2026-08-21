@@ -2,6 +2,7 @@
 
 <p align="center">
   Computer Science & Information Engineering student at Tamkang University 🇹🇼
+  Email: Lordwishsylvaince123@gmail.com
 </p>
 
 ---
